@@ -1,0 +1,1 @@
+/bin/i3custom.sh

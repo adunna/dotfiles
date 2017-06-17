@@ -1,1 +1,0 @@
-/home/adunna/.config/i3
